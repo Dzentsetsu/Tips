@@ -16,5 +16,6 @@
 * **git add .** --- move all files in current dir to the stage
 * **git add --all** --- move all files in current dir to the stage
 * **git rm --cached filename** --- remove file from stage area
+* **git rm --cached -r directory** --- remove all files and in dir from stage area
 * **git commit -m** --- commit changes from staging with a message
 * **git diff** --- how what changes was made 
