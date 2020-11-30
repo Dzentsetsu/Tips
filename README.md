@@ -15,6 +15,7 @@
 * **git status** --- shows untracked files
 * **git add .** --- move all files in current dir to the stage
 * **git add --all** --- move all files in current dir to the stage
+* **git rm --cached filename** --- remove file from stage area
 * **git commit -m** --- commit changes from staging
 * **git restore --staged name.extension** --- remove new file from stage (file that was added to the stage but never changed)
 * **git diff** --- how what changes was made 
