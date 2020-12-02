@@ -19,3 +19,8 @@
 * **git rm --cached -r directory** --- remove all files and in dir from stage area
 * **git commit -m** --- commit changes from staging with a message
 * **git diff** --- how what changes was made 
+
+
+# Linux Ubuntu
+
+* **Ctrl+L** --- clear's terminal instead of typing command "clear"
