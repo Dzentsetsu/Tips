@@ -24,3 +24,8 @@
 # Linux Ubuntu
 
 * **Ctrl+L** --- clear's terminal instead of typing command "clear"
+
+
+# Linux terminal 
+
+* **apt-cache pkgnames anyname | less** --- list every package with anyname in the beginning of the package name
