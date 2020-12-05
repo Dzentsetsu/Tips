@@ -31,3 +31,4 @@
 * **apt-cache pkgnames anyname | less** --- list every package with anyname in the beginning of the package name
 * **uname -a** --- determine the processor architecture, the system hostname and the version of the kernel
 * **lsmod** --- shows which loadable kernel modules are currently loaded
+* **tree** --- tree is a recursive directory listing program that produces a depth-indented listing of files
