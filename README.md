@@ -32,4 +32,5 @@
 * **uname -a** --- determine the processor architecture, the system hostname and the version of the kernel
 * **lsmod** --- shows which loadable kernel modules are currently loaded
 * **tree** --- tree is a recursive directory listing program that produces a depth-indented listing of files
-* **>** --- Output redirection
+* **>** --- Output redirection. Redirect output from left side command to right side ex. (ls > fileList.txt)
+* **|** --- Put result of one command  as input to another
