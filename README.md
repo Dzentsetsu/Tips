@@ -21,7 +21,7 @@
 * **git diff** --- how what changes was made 
 * **git checkout branch-name** --- change between bracnhes
 * **git remote -v** --- shows which github repos are connected with ur local repo 
-* **git remote add origin https://github.com/Dzentsetsu/Tips.git** --- creates a handle for repo with alias ORIGIN (now you can fetch and push)
+* **git remote add origin https://github.com/Dzentsetsu/Tips.git** --- creates a handle in your local repo with alias ORIGIN to this "https://github.com/Dzentsetsu/Tips.git" repo (now you can fetch from it and push to it)
 
 # Linux terminal 
 
