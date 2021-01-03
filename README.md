@@ -19,6 +19,7 @@
 * **git rm --cached -r directory** --- remove all files and in dir from stage area
 * **git commit -m** --- commit changes from staging with a message
 * **git diff** --- how what changes was made 
+* **git checkout <branch-name>** --- change between bracnhes
 
 
 # Linux terminal 
