@@ -39,4 +39,5 @@
 # JS
 
 Array methods
-* **Array.push()** --- method adds one or more elements to the *end* of an array
+* **Array.push()** --- method adds one or more elements to the *end* of an array and returns the new length of the array
+* **Array.unshift()** ---  method adds one or more elements to the beginning of an array and returns the new length of the array
