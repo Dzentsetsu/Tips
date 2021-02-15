@@ -34,3 +34,9 @@
 * **>** --- output redirection. Redirect output from left side command to right side ex. (ls > fileList.txt)
 * **|** --- put result of one command  as input to another
 * **grep** --- print lines that match patterns
+
+
+# JS
+
+Array methods
+* **Array.push()** --- method adds one or more elements to the *end* of an array
