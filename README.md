@@ -43,3 +43,5 @@ Array methods
 * **Array.unshift()** ---  method adds one or more elements to the beginning of an array and ***returns the new length of the array***
 * **Array.pop()** --- method removes the last element from an array and ***returns that element***
 * **Array.shift()** --- method removes first element from an array and ***returns that removed element***
+* **Array.splice()** ---  method changes the contents of an array by removing or replacing existing elements and/or adding new elements
+
