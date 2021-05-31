@@ -48,4 +48,4 @@ Array methods
 # VScode
 
 Extremely usefull
-* **Ctrl+Shift+P** --- wraps selected text in specified container (e.x .container will give you div with a class=container)
+* **Ctrl+Shift+P** --- wraps selected text in specified container (e.x **.container** will give you div with a class=container)
