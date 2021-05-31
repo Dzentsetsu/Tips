@@ -45,3 +45,6 @@ Array methods
 * **Array.shift()** --- method removes first element from an array and ***returns that removed element***
 * **Array.splice()** ---  method changes the contents of an array by removing or replacing existing elements and/or adding new elements
 
+# VScode
+
+* **Shift+command+P** --- wraps selected text in specified container (e.x .container will give you div with a class=container)
