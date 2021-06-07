@@ -21,6 +21,7 @@
 * **git checkout branch-name** --- change between bracnhes
 * **git add .** --- move all files in current dir to the stage
 * **git add --all** --- move all files in current dir to the stage
+* **git add -p yourfile.html** --- allow you to CHOOSE what changes you want to commit in this file. (example -> if you added 2 lines of code git will offer you to commit changes line by line. You can choose to save (commit) first added line but not second. Very convinient feature!.) 
 * **git rm --cached filename** --- remove file from stage area
 * **git rm --cached -r directory** --- remove all files and in dir from stage area
 * **git commit -m** --- commit changes from staging with a message
