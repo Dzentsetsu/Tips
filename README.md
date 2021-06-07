@@ -14,7 +14,7 @@
 
 * **git status** --- shows untracked files
 * **git branch** --- shows at which branch you are currently working
-* **git diff** --- how what changes was made 
+* **git diff master..feature** --- how what changes was made on feature compared to master
 * **git checkout -b branch_name** --- creates new branch
 * **git checkout branch-name** --- change between bracnhes
 * **git add .** --- move all files in current dir to the stage
