@@ -13,6 +13,7 @@
 # Git commands
 
 * **git help command** --- man page for git commands
+* **git show 8569daf (coomit hash)** --- shows commit if not specified shows the last commit
 * **git status** --- shows untracked files
 * **git branch** --- shows at which branch you are currently working
 * **git diff master..feature** --- how what changes was made on feature compared to master
