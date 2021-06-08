@@ -25,6 +25,7 @@
 * **git rm --cached filename** --- remove file from stage area
 * **git rm --cached -r directory** --- remove all files and in dir from stage area
 * **git commit -m** --- commit changes from staging with a message
+* **git commit -a** --- commit without git add for ***TRACKED*** files
 * **git remote -v** --- shows which github repos are connected with ur local repo 
 * **git remote add origin https://github.com/Dzentsetsu/Tips.git** --- creates a handle in your local repo with alias ORIGIN to this "https://github.com/Dzentsetsu/Tips.git" repo (now you can fetch from it and push to it)
 * **git remote remove alias** --- removes a handle to github repo (this is used when for example you have 2 repos where you commit ur local files to and now you do not want to use one of them anymore,so you can delete a handle to it)
