@@ -31,7 +31,7 @@
 * **git remote remove alias** --- removes a handle to github repo (this is used when for example you have 2 repos where you commit ur local files to and now you do not want to use one of them anymore,so you can delete a handle to it)
 * **git push -u origin my_branch** --- type this if it is the first time that you push that branch in just created repo.
 * **git clone <remote_URL>** --- clone project.
-* **git commit -a --allow-empty-message -m '' ** --- let you make a commit with no message. Pretty usefull when working alone
+* **git commit -a --allow-empty-message -m ' '** --- let you make a commit with no message. Pretty usefull when working alone
 
 # Linux terminal 
 
