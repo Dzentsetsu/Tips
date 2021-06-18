@@ -59,4 +59,6 @@ Array methods
 Extremely usefull
 * **Ctrl+Shift+P** --- wraps selected text in specified container (e.x **.container** will give you div with a class=container)
 * https://docs.emmet.io/cheat-sheet/ --- Emmet cheatsheet - **SUPER USEFULL!!!!**:astonished:
-* **F2** --- when you want to change tag.
+* **F2** --- when you want to change tag
+* **Shift+Alt+I** --- put cursor the the end of current selected lines 👍
+* **Ctrl+Shift+L** --- select all occuriances of word and start editing
