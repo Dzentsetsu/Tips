@@ -4,3 +4,7 @@ An image will always be it’s natural size unless told to be something else.
 
 If you want it to fit it’s parent then **max-width:100%** would so the trick.
 }
+
+DIV : By default div takes 100% available width
+      The min-width and max-width properties override width.
+      The height property in CSS defines specifies the content height 
