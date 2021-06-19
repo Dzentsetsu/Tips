@@ -1,0 +1,6 @@
+IMG 
+{
+An image will always be it’s natural size unless told to be something else.
+
+If you want it to fit it’s parent then **max-width:100%** would so the trick.
+}
