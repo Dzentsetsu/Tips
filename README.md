@@ -33,6 +33,8 @@
 * **git clone <remote_URL>** --- clone project.
 * **git commit -a --allow-empty-message -m ' '** --- let you make a commit with no message. Pretty usefull when working alone
 
+// If you want fast check any repo, write 1s after letter b in url (github.com/blablabla ---> github1s.com/blablabla). It will open repo in vscode in the browser!! 😎
+
 # Linux terminal 
 
 * **Ctrl+L** --- clear's terminal instead of typing command "clear"
