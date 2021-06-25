@@ -24,4 +24,5 @@
 
 ```funtion checkType(str) {
   return Object.prototype.toString.call(str) === "[object String]";
-}```
+}
+```
