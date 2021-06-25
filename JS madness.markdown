@@ -21,9 +21,9 @@
 ## Type checking 
 
 ### Checking if argument is a string
-
 ```javascript
-function checkType(str) {
-  return Object.prototype.toString.call(str) === "[object String]";
+function A(x) {
+  return (typeof x == 'string') || (x instanceof String)
 }
 ```
+
