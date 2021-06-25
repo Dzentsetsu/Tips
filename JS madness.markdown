@@ -16,3 +16,11 @@
 ## Falsy values
 
 ![image](https://user-images.githubusercontent.com/39916816/123404864-f5851780-d5b1-11eb-8c26-e1d5edb98b0c.png)
+
+
+## Type checking 
+
+### Checking if argument is a string
+funtion checkType(str) {
+  return Object.prototype.toString.call(str) === "[object String]";
+}
