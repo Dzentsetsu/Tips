@@ -22,8 +22,8 @@
 
 ### Checking if argument is a string
 
-```javascript
-funtion checkType(str) {
+```
+function checkType(str) {
   return Object.prototype.toString.call(str) === "[object String]";
 }
 ```
