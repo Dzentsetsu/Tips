@@ -21,6 +21,7 @@
 ## Type checking 
 
 ### Checking if argument is a string
-funtion checkType(str) {
+
+```funtion checkType(str) {
   return Object.prototype.toString.call(str) === "[object String]";
-}
+}```
