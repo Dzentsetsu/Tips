@@ -22,7 +22,7 @@
 
 ### Checking if argument is a string
 
-```
+```javascript
 function checkType(str) {
   return Object.prototype.toString.call(str) === "[object String]";
 }
