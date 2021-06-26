@@ -26,4 +26,6 @@ function A(x) {
   return (typeof x == 'string') || (x instanceof String)
 }
 ```
+## Lexical scope 
 
+Lexical scope defines how variable names are resolved in nested functions. Nested (child) funtions have access to variable defined in there parents and global scope.
