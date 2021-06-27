@@ -29,3 +29,10 @@ function A(x) {
 ## Lexical scope 
 
 Lexical scope defines how variable names are resolved in nested functions. Nested (child) funtions have access to variable defined in there parents and global scope.
+
+### Object methods
+
+##Сравнение через Object.is
+
+![image](https://user-images.githubusercontent.com/39916816/123559963-f089b900-d7a7-11eb-85d4-cfb1b0f3e5b8.png)
+
