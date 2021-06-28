@@ -34,6 +34,8 @@
 * **git commit -a --allow-empty-message -m ' '** --- let you make a commit with no message. Pretty usefull when working alone
 
 If you want fast check any repo, write 1s after letter b in url (github.com/blablabla ---> github1s.com/blablabla). It will open repo in vscode in the browser!! 😎
+![image](https://user-images.githubusercontent.com/39916816/123642698-430cb900-d82c-11eb-8a1a-cb8ec6b20446.png)
+
 
 # Linux terminal 
 
