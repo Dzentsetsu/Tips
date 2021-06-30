@@ -66,3 +66,4 @@ Extremely usefull
 * **F2** --- when you want to change tag
 * **Shift+Alt+I** --- put cursor the the end of current selected lines 👍
 * **Ctrl+Shift+L** --- select all occuriances of word and start editing
+* **Alt+Z** --- wrapping text if it's too long to fit on the sreen
