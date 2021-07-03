@@ -68,3 +68,5 @@ Extremely usefull
 * **Ctrl+Shift+L** --- select all occuriances of word and start editing
 * **Alt+Z** --- wrapping text if it's too long to fit on the sreen
 * https://code.visualstudio.com/docs/editor/codebasics --- VSCode Hot-keys cheatsheet - **SUPER USEFULL!!!!**:astonished:
+* ![image](https://user-images.githubusercontent.com/39916816/124348441-a0b95080-dbf2-11eb-9836-3b6b3c61c8b5.png)
+
