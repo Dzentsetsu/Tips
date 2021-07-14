@@ -70,4 +70,5 @@ Extremely usefull
 * https://code.visualstudio.com/docs/editor/codebasics --- VSCode Hot-keys cheatsheet - **SUPER USEFULL!!!!**:astonished:
 * ![image](https://user-images.githubusercontent.com/39916816/124348441-a0b95080-dbf2-11eb-9836-3b6b3c61c8b5.png)
 * **Win+;** --- insert Emoji 💎
-
+* **Ctrl+K+0** --- folds all regions 💎
+* **Ctrl+K+J** --- unfolds all regions 💎
