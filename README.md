@@ -72,3 +72,4 @@ Extremely usefull
 * **Win+;** --- insert Emoji 💎
 * **Ctrl+K+0** --- folds all regions 💎
 * **Ctrl+K+J** --- unfolds all regions 💎
+* **Shift+Alt+Right** --- expand selection
