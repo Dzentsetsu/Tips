@@ -73,3 +73,4 @@ Extremely usefull
 * **Ctrl+K+0** --- folds all regions 💎
 * **Ctrl+K+J** --- unfolds all regions 💎
 * **Shift+Alt+Right** --- expand selection
+* **Ctrl+G** --- To go to a line in the file, then type a line number 👍
