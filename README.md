@@ -74,3 +74,4 @@ Extremely usefull
 * **Ctrl+K+J** --- unfolds all regions 💎
 * **Shift+Alt+Right** --- expand selection
 * **Ctrl+G** --- To go to a line in the file, then type a line number 👍
+* **Ctrl+B** --- Show hide sidebar
