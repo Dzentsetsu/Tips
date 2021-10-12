@@ -57,6 +57,7 @@ Array methods
 * **Array.pop()** --- method removes the last element from an array and ***returns that element***
 * **Array.shift()** --- method removes first element from an array and ***returns that removed element***
 * **Array.splice()** ---  method changes the contents of an array by removing or replacing existing elements and/or adding new elements
+if you need to replace characters in the string ---> https://www.codewars.com/kata/56bcaedfcf6b7f2125001118/solutions/javascript
 
 # VScode
 
