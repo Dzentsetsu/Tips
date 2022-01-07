@@ -37,7 +37,7 @@ If you want fast check any repo, write 1s after letter b in url (github.com/blab
 ![image](https://user-images.githubusercontent.com/39916816/123642698-430cb900-d82c-11eb-8a1a-cb8ec6b20446.png)
 
 
-# Linux terminal 
+# Linux based terminal 
 
 * **Ctrl+L** --- clear's terminal instead of typing command "clear"
 * **apt-cache pkgnames anyname | less** --- list every package with anyname in the beginning of the package name
@@ -47,7 +47,8 @@ If you want fast check any repo, write 1s after letter b in url (github.com/blab
 * **>** --- output redirection. Redirect output from left side command to right side ex. (ls > fileList.txt)
 * **|** --- put result of one command  as input to another
 * **grep** --- print lines that match patterns
-
+* **which ls** --- every command in linux is actually a file and this command shows you where it is on ur computer
+* **file path_to_file** --- shows what type of file is it 
 
 # JS
 
