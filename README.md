@@ -49,6 +49,7 @@ If you want fast check any repo, write 1s after letter b in url (github.com/blab
 * **grep** --- print lines that match patterns
 * **which ls** --- every command in linux is actually a file and this command shows you where it is on ur computer
 * **file path_to_file** --- shows what type of file is it 
+* **where name_of_executable** --- shows location of executable file you specified
 
 # JS
 
