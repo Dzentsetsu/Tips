@@ -83,5 +83,5 @@ Extremely usefull
 * **Ctrl+G** --- To go to a line in the file, then type a line number 👍
 * **Ctrl+B** --- Show hide sidebar
 
-#C
+# C
 * **echo $?** --- в баш строке выведет статус последней исполненной программы (по сути выводит тот самый int из int main)
